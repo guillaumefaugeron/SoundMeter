@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SoundMeter</string>
+    <string name="permission_popup_title">Microphone acces required</string>
+    <string name="permission_popup_msg">SoundMeter require acces to your device\'s microphone</string>
+    <string name="permission_popup_ok">yes</string>
+    <string name="permission_popup_ko">no</string>
 </resources>
