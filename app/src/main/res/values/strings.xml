@@ -1,17 +1,20 @@
 <resources>
     <string name="app_name">SoundMeter</string>
-    <string name="permission_popup_title">Microphone acces required</string>
-    <string name="permission_popup_msg">SoundMeter require acces to your device\'s microphone</string>
-    <string name="permission_popup_ok">yes</string>
-    <string name="permission_popup_ko">no</string>
+    <string name="permission_popup_title">Microphone access required</string>
+    <string name="permission_popup_msg">SoundMeter requires access to your phone\'s microphone in order to display the sound level.</string>
+    <string name="permission_popup_ok">Ok</string>
+    <string name="permission_popup_ko">Not yet</string>
 
-    <string name="btn_settings">Open settings</string>
+    <string name="location_template">lat : %1$s - lng : %2$s</string>
+    <string name="speed_template">speed : %1$s m/s</string>
+
+    <string name="setting_speed">Speed threshold</string>
+    <string name="setting_speed_summary">Vibrate when speed is reached</string>
+
+    <string name="menu_settings">Open settings</string>
     <string name="btn_start">Start</string>
     <string name="btn_stop">Stop</string>
 
-
-    <string name="too_fast">You are too fast</string>
-    <string name="notification_title">notif</string>
-
-
+    <string name="notification_title">You\'re tracked</string>
+    <string name="notification_speed_title">You overpass the limit %1$s > %2$s</string>
 </resources>

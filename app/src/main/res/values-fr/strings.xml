@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SoundMeter</string>
+    <string name="permission_popup_title">Accès nécessaire au micro</string>
+</resources>
