@@ -4,4 +4,14 @@
     <string name="permission_popup_msg">SoundMeter require acces to your device\'s microphone</string>
     <string name="permission_popup_ok">yes</string>
     <string name="permission_popup_ko">no</string>
+
+    <string name="btn_settings">Open settings</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+
+
+    <string name="too_fast">You are too fast</string>
+    <string name="notification_title">notif</string>
+
+
 </resources>
